@@ -3,7 +3,8 @@ I am a passionate Computer Science and Civil Engineering student 💻, always se
 
 ## ⏳ I'm currently
 - 🏗️ Developing:  mobile application 📱, together with my amazing team of university students 👩‍💻👨‍💻, all super motivated! 🔥
-- 💡 Thinking: how to improve people's quality of life through software  
+- 💡 Thinking: how to improve people's quality of life through software
+- ❤️ Loving: NixOS 
 
 ## 🤔 What i know?
 [![My Skills](https://skillicons.dev/icons?i=py,css,html,react)](https://skillicons.dev)
