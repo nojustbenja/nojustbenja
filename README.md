@@ -1,9 +1,17 @@
-## 😀 About me
-I am a passionate Computer Science and Civil Engineering student 💻, always seeking continuous learning 📚, both inside the university and beyond 🌍.
+# Hi there, I'm Benja! 👋
 
-## ⏳ I'm currently
-- 🏗️ Developing:  mobile application 📱, together with my amazing team of university students 👩‍💻👨‍💻, all super motivated! 🔥
-- 💡 Thinking: how to improve people's quality of life through software
+### 🚀 Software Engineer | Co-Founder | Builder
 
-## 🤔 What i know?
-[![My Skills](https://skillicons.dev/icons?i=py,css,html,react)](https://skillicons.dev)
+I'm a 3rd-year Civil Engineering in Computer Science student focused on building scalable software that solves real-world problems. I don't just write code; I design systems, deploy infrastructure, and lead teams.
+
+## 🏗️ What I'm currently building
+- 🛒 **HealthBytes:** Developing an e-commerce platform tailored for users with dietary restrictions.
+- 🎓 **Kairos Labs:** Co-founder. Training the next generation of students in IT through hands-on, real-world engineering projects.
+- 🍅 **focus.again...:** Building a multi-platform progressive pomodoro application to optimize workflow and deep work.
+- 🖥️ **Home Lab:** Architecting and managing my own self-hosted infrastructure using **Proxmox**.
+
+## 🛠️ Stack & Architecture
+[![My Skills](https://skillicons.dev/icons?i=py,react,js,html,css,linux,git,bash,docker)](https://skillicons.dev)
+
+## 📈 Engineering Metrics
+[![Benja's GitHub stats](https://github-readme-stats.vercel.app/api?username=nojustbenja&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/nojustbenja)
