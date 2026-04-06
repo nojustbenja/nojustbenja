@@ -14,4 +14,6 @@ I'm a 3rd-year Civil Engineering in Computer Science student focused on building
 [![My Skills](https://skillicons.dev/icons?i=py,react,js,html,css,linux,git,bash,docker)](https://skillicons.dev)
 
 ## 📈 Engineering Metrics
-[![Benja's GitHub stats](https://github-readme-stats.vercel.app/api?username=nojustbenja&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/nojustbenja)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=nojustbenja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
