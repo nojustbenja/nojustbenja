@@ -11,9 +11,14 @@ I'm a 3rd-year Civil Engineering in Computer Science student focused on building
 - 🖥️ **Home Lab:** Architecting and managing my own self-hosted infrastructure using **Proxmox**.
 
 ## 🛠️ Stack & Architecture
-[![My Skills](https://skillicons.dev/icons?i=py,react,js,html,css,linux,git,bash,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,react,js,html,css,typescript,linux,git,bash,docker,postgresql)](https://skillicons.dev)
+
 
 ## 📈 Engineering Metrics
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nojustbenja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+### GitHub Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=nojustbenja&theme=tokyonight&hide_border=true)
+
 </div>
