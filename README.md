@@ -1,23 +1,56 @@
-# Hi there, I'm Benja! 👋
+# Hola, soy Benja 👋
 
-### 🚀 Software Engineer | Co-Founder | Builder
+### Software engineer · Product builder · Co-founder
 
-I'm a 3rd-year Civil Engineering in Computer Science student focused on building scalable software that solves real-world problems. I don't just write code; I design systems, deploy infrastructure, and lead teams.
+Construyo productos de software que convierten problemas cotidianos en experiencias simples. Me interesa especialmente la intersección entre **IA aplicada, privacidad, productos local-first y buenas interfaces**.
 
-## 🏗️ What I'm currently building
-- 🎓 **Kairos Labs:** Co-founder. Training the next generation of students in IT through hands-on, real-world engineering projects.
-- 🍅 **focus.again...:** Building a multi-platform progressive pomodoro application to optimize workflow and deep work.
-- 🖥️ **Home Lab:** Architecting and managing my own self-hosted infrastructure using **Proxmox**.
+## 🚀 Proyectos destacados
 
-## 🛠️ Stack & Architecture
-[![My Skills](https://skillicons.dev/icons?i=py,react,js,html,css,typescript,linux,git,bash,docker,postgresql)](https://skillicons.dev)
+### 💖 [NosTinka](https://nostinka.vercel.app)
+PWA mobile-first para descubrir, organizar y recordar panoramas en pareja.
 
+- Mapa interactivo y lugares guardados
+- Espacios privados compartidos con Supabase y RLS
+- Ingesta asistida por IA desde URLs y contenido social
+- Recuerdos, visitas y almacenamiento privado
 
-## 📈 Engineering Metrics
+> Prototipo de producto desplegado; actualmente en etapa de validación.
 
-<div align="center">
-  
-### GitHub Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=nojustbenja&theme=tokyonight&hide_border=true)
+### 🛡️ [Pre-FIBE Demo](https://prefibe-demo.vercel.app)
+Demo offline-first para coordinación de información de emergencia, enfocada en privacidad y soberanía de datos.
 
-</div>
+- Datos locales y cifrado
+- Transferencia de registros mediante QR
+- Tests automatizados y CI/CD
+- Sincronización remota intencionalmente limitada
+
+### 🧴 [Cosmetic RAG System](https://github.com/nojustbenja/cosmetic_rag_system)
+Asistente de IA para recomendaciones cosméticas usando RAG, búsqueda vectorial y múltiples proveedores LLM.
+
+- Recomendaciones con fuentes trazables
+- Streaming conversacional
+- Catálogo, carrito y flujo de venta
+- Analíticas y backoffice administrativo
+
+## 🧪 Experimentos y proyectos en desarrollo
+
+- **[FolderLM](https://github.com/nojustbenja/FolderLM)** — extensión de navegador para organizar notebooks de Google NotebookLM con carpetas anidadas y drag & drop.
+- **Atlas Vault** — sistema personal de conocimiento conectado con agentes de IA.
+- **Actual Focus** — aplicación de productividad y Pomodoro local-first.
+
+## 🛠️ Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,svelte,astro,tailwind,fastapi,rust,postgres,supabase,docker,linux,git)](https://skillicons.dev)
+
+## 🎯 En qué estoy enfocado
+
+- Diseñar y lanzar productos útiles, no solo demos técnicas.
+- Aplicar IA donde mejora realmente el flujo de trabajo.
+- Construir sistemas privados, auditables y fáciles de usar.
+- Aprender rápido mediante proyectos reales y experimentación.
+
+## 📫 Contacto
+
+- Portfolio: [nojustbenja.dev](https://www.nojustbenja.dev)
+- Social: [social.nojustbenja.dev](https://social.nojustbenja.dev)
+- GitHub: [@nojustbenja](https://github.com/nojustbenja)
