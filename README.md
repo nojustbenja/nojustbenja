@@ -16,14 +16,6 @@ PWA mobile-first para descubrir, organizar y recordar panoramas en pareja.
 
 > Prototipo de producto desplegado; actualmente en etapa de validación.
 
-### 🛡️ [Pre-FIBE Demo](https://prefibe-demo.vercel.app)
-Demo offline-first para coordinación de información de emergencia, enfocada en privacidad y soberanía de datos.
-
-- Datos locales y cifrado
-- Transferencia de registros mediante QR
-- Tests automatizados y CI/CD
-- Sincronización remota intencionalmente limitada
-
 ### 🧴 [Cosmetic RAG System](https://github.com/nojustbenja/cosmetic_rag_system)
 Asistente de IA para recomendaciones cosméticas usando RAG, búsqueda vectorial y múltiples proveedores LLM.
 
