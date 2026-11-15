@@ -1,23 +1,28 @@
-# Hi there, I'm Benja! 👋
+# Hey, I'm Benja 👋
 
-### 🚀 Software Engineer | Co-Founder | Builder
+### Building with purpose · Leading through engineering
 
-I'm a 3rd-year Civil Engineering in Computer Science student focused on building scalable software that solves real-world problems. I don't just write code; I design systems, deploy infrastructure, and lead teams.
+I'm a Computer Engineering student at Universidad San Sebastián and co-founder of **Kairos Labs**. I enjoy turning ideas into real projects, bringing people together, and building software that solves practical problems.
 
-## 🏗️ What I'm currently building
-- 🎓 **Kairos Labs:** Co-founder. Training the next generation of students in IT through hands-on, real-world engineering projects.
-- 🍅 **focus.again...:** Building a multi-platform progressive pomodoro application to optimize workflow and deep work.
-- 🖥️ **Home Lab:** Architecting and managing my own self-hosted infrastructure using **Proxmox**.
+## 🚀 Kairos Labs
 
-## 🛠️ Stack & Architecture
-[![My Skills](https://skillicons.dev/icons?i=py,react,js,html,css,typescript,linux,git,bash,docker,postgresql)](https://skillicons.dev)
+At Kairos Labs, I've led the coordination and technical direction of projects that give students hands-on experience with real engineering challenges.
 
+My focus is on connecting product decisions with the technology and teamwork needed to bring them to life—from defining an MVP and coordinating disciplines to exploring architecture and infrastructure.
 
-## 📈 Engineering Metrics
+## 🛠️ What I work with
 
-<div align="center">
-  
-### GitHub Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=nojustbenja&theme=tokyonight&hide_border=true)
+- **Backend & data:** Python, FastAPI, PostgreSQL
+- **Frontend & mobile:** React, React Native, Expo, Svelte, TypeScript
+- **Systems & infrastructure:** Rust, Linux, Docker, Proxmox
+- **Interests:** software architecture, AI-powered tools, self-hosting and technical leadership
 
-</div>
+## 📌 Selected projects
+
+- **[Actual Focus..](https://github.com/nojustbenja/actual-focus..)** — An open-source desktop productivity app built with Svelte, Tauri and Rust.
+- **[Lumi · Cosmetic RAG System](https://github.com/nojustbenja/cosmetic_rag_system)** — A collaborative educational project exploring AI-assisted product recommendations with retrieval-augmented generation.
+- **Home lab** — A self-hosted environment where I experiment with infrastructure, networking and services using Proxmox.
+
+---
+
+*Learning by building, and building with people.*
